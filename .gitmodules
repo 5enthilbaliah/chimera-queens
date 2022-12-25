@@ -1,0 +1,3 @@
+[submodule "cs-chimera-queens"]
+	path = cs-chimera-queens
+	url = https://github.com/5enthilbaliah/cs-chimera-queens.git
